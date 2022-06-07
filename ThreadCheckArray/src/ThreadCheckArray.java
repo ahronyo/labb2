@@ -2,6 +2,7 @@ import java.util.ArrayList;
 
 public class ThreadCheckArray implements Runnable 
 {
+	//check to the git
 	private boolean flag;
 	private boolean [] winArray;
 	SharedData sd;
